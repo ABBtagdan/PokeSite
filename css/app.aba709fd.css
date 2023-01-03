@@ -1,0 +1,1 @@
+template{background-color:blue}.pokemons{display:flex;flex-direction:row;justify-content:space-evenly;max-width:80vw;flex-wrap:wrap;margin-left:10vw}
